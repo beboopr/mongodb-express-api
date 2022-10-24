@@ -25,4 +25,5 @@ export async function addNewUser(req, res) {
 //     .find({ model: search })
 //     .toArray()
 //   res.send(collection)
-// }
+// } 
+//Referencia...
